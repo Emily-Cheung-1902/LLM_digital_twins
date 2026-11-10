@@ -1,0 +1,6 @@
+numpy
+openai
+pandas
+python-dotenv
+scipy
+tqdm

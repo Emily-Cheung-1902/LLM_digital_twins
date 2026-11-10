@@ -1,0 +1,669 @@
+## Persona Profile (This individual's past survey responses):
+
+Please select your current state of residence
+Question Type: Single Choice
+Options:
+  1 - Alabama
+  2 - Alaska
+  3 - Arizona
+  4 - Arkansas
+  5 - California
+  6 - Colorado
+  7 - Connecticut
+  8 - Delaware
+  9 - Florida
+  10 - Georgia
+  11 - Hawaii
+  12 - Idaho
+  13 - Illinois
+  14 - Indiana
+  15 - Iowa
+  16 - Kansas
+  17 - Kentucky
+  18 - Louisiana
+  19 - Maine
+  20 - Maryland
+  21 - Massachusetts
+  22 - Michigan
+  23 - Minnesota
+  24 - Mississippi
+  25 - Missouri
+  26 - Montana
+  27 - Nebraska
+  28 - Nevada
+  29 - New Hampshire
+  30 - New Jersey
+  31 - New Mexico
+  32 - New York
+  33 - North Carolina
+  34 - North Dakota
+  35 - Ohio
+  36 - Oklahoma
+  37 - Oregon
+  38 - Pennsylvania
+  39 - Rhode Island
+  40 - South Carolina
+  41 - South Dakota
+  42 - Tennessee
+  43 - Texas
+  44 - Utah
+  45 - Vermont
+  46 - Virginia
+  47 - Washington
+  48 - West Virginia
+  49 - Wisconsin
+  50 - Wyoming
+Answer:10 - Georgia
+
+Please specify your birth sex.
+Question Type: Single Choice
+Options:
+  1 - Male
+  2 - Female
+Answer:Male
+
+Age in years
+Question Type: Continuous
+Answer:21
+
+What is the highest level of education you've completed?
+Question Type: Single Choice
+Options:
+  1 - Some high school
+  2 - High school
+  3 - Some college
+  4 - Associate's degree
+  5 - Bachelor's degree
+  6 - Some graduate education
+  7 - Master's degree
+  8 - PhD
+  9 - Professional degree
+  10 - Other (please specify)
+Answer:3 - Some college
+
+What was your average weekly income bracket (in U.S. $) in 2019?
+Question Type: Single Choice
+Options:
+  1 - Less than $249
+  2 - $250 - $499
+  3 - $500 - $999
+  4 - $1000 - $1499
+  5 - $1500 - $2999
+  6 - More than $3000
+  7 - Don't know
+Answer:7 - Don't know
+
+Which of the following best describes your employment status in 2019?
+Question Type: Single Choice
+Options:
+  1 - Employed
+  2 - Unemployed
+  3 - Retired
+Answer:2 - Unemployed
+
+Which of the following best describes your marital status during the majority of 2019?
+Question Type: Single Choice
+Options:
+  1 - Married & living together, or living with someone in a marital-like relationship
+  2 - Never married & never lived with someone in a marital-like relationship
+  3 - Separated
+  4 - Divorced or formerly lived with someone in a marital-like relationship
+  5 - Widowed
+Answer:2 - Never married & never lived with someone in a marital-like relationship
+
+Please specify your race.
+Question Type: Single Choice
+Options:
+  1 - American Indian/Alaska Native
+  2 - Asian
+  3 - Native Hawaiian or Other Pacific Islander
+  4 - Black or African American
+  5 - White
+  6 - Multiracial
+  7 - Other
+  8 - Prefer not to disclose
+Answer:6 - Multiracial
+
+If you currently practice a religion, please indicate what it is.
+Question Type: Single Choice
+Options:
+  1 - Buddhist
+  2 - Christian
+  3 - Hindu
+  4 - Jewish
+  5 - Muslim
+  6 - Other, please specify
+  7 - None
+Answer:7 - None
+
+Regardless of whether you practice a religion, how religious are you?
+Question Type: Single Choice
+Options:
+  1 - Not at all religious
+  2 - Somewhat religious
+  3 - Moderately religious
+  4 - Very religious
+Answer:2 - Somewhat religious
+
+How many siblings do you have?
+Question Type: Single Choice
+Options:
+  1 - 0
+  2 - 1
+  3 - 2
+  4 - 3
+  5 - 4
+  6 - 5
+  7 - 6
+  8 - 7
+  9 - 8
+  10 - 9
+  11 - 10+
+Answer:5 - 4
+
+How do you identify politically?
+Question Type: Single Choice
+Options:
+  1 - Republican
+  2 - Democrat
+  3 - Independent
+  4 - Other (please specify)
+Answer:3 - Independent
+
+How would you rate yourself on the following scale?
+Question Type: Single Choice
+Options:
+  1 - strongly liberal
+  2 - moderately liberal
+  3 - slightly liberal
+  4 - neutral
+  5 - slightly conservative
+  6 - moderately conservative
+  7 - strongly conservative
+Answer:4 - neutral
+
+Do you have a diagnosed, on-going mental health/illness/condition? (check all that apply)
+Question Type: Multiple Choice
+Options:
+  1 - Autism Spectrum Disorder
+  2 - Major depressive disorder
+  3 - Schizophrenia
+  4 - Bipolar disorder
+  5 - Anxiety disorder
+  6 - Others
+  7 - None
+  8 - Prefer not to disclose
+Answer:
+  7 - None
+
+Please select all that apply to you in terms of therapy/counseling.
+Question Type: Multiple Choice
+Options:
+  1 - I received counseling / psychotherapy during 2019.
+  2 - I have continued to receive counseling / psychotherapy in 2020.
+  3 - I entered counseling / psychotherapy in 2020 (but not in 2019) to deal with stress related to the COVID pandemic.
+  4 - I entered counseling / psychotherapy in 2020 (but not in 2019) to deal with other issues, not related to the COVID pandemic.
+  5 - I haven't received counseling / psychotherapy neither in 2019 nor in 2020.
+Answer:
+  5 - I haven't received counseling / psychotherapy neither in 2019 nor in 2020.
+
+Are you currently registered to vote?
+Question Type: Single Choice
+Options:
+  1 - Yes, registered
+  2 - No, not registered
+  3 - No, not eligible
+  4 - Don't know
+Answer:1 - Yes, registered
+
+Do you approve of the way each was doing their job last year in general? - President Trump
+Question Type: Single Choice
+Options:
+  1 - strongly approve
+  2 - somewhat approve
+  3 - neither approve or disapprove
+  4 - somewhat approve
+  5 - strongly approve
+  6 - unfamiliar with this person / entity
+  7 - not sure
+Answer:4 - somewhat approve
+
+Do you approve of the way each was doing their job last year in general? - House of Representatives
+Question Type: Single Choice
+Options:
+  1 - strongly approve
+  2 - somewhat approve
+  3 - neither approve or disapprove
+  4 - somewhat approve
+  5 - strongly approve
+  6 - unfamiliar with this person / entity
+  7 - not sure
+Answer:5 - strongly approve
+
+Do you approve of the way each was doing their job last year in general? - US Senate
+Question Type: Single Choice
+Options:
+  1 - strongly approve
+  2 - somewhat approve
+  3 - neither approve or disapprove
+  4 - somewhat approve
+  5 - strongly approve
+  6 - unfamiliar with this person / entity
+  7 - not sure
+Answer:4 - somewhat approve
+
+Do you approve of the way each was doing their job last year in general? - Mike Pence
+Question Type: Single Choice
+Options:
+  1 - strongly approve
+  2 - somewhat approve
+  3 - neither approve or disapprove
+  4 - somewhat approve
+  5 - strongly approve
+  6 - unfamiliar with this person / entity
+  7 - not sure
+Answer:4 - somewhat approve
+
+Do you approve of the way each was doing their job last year in general? - Jared Kushner
+Question Type: Single Choice
+Options:
+  1 - strongly approve
+  2 - somewhat approve
+  3 - neither approve or disapprove
+  4 - somewhat approve
+  5 - strongly approve
+  6 - unfamiliar with this person / entity
+  7 - not sure
+Answer:4 - somewhat approve
+
+Do you approve of the way each was doing their job last year in general? - Your state government
+Question Type: Single Choice
+Options:
+  1 - strongly approve
+  2 - somewhat approve
+  3 - neither approve or disapprove
+  4 - somewhat approve
+  5 - strongly approve
+  6 - unfamiliar with this person / entity
+  7 - not sure
+Answer:4 - somewhat approve
+
+Do you approve of the way each was doing their job last year in general? - Your local government
+Question Type: Single Choice
+Options:
+  1 - strongly approve
+  2 - somewhat approve
+  3 - neither approve or disapprove
+  4 - somewhat approve
+  5 - strongly approve
+  6 - unfamiliar with this person / entity
+  7 - not sure
+Answer:2 - somewhat approve
+
+Do you approve of the way each was doing their job last year in general? - CDC
+Question Type: Single Choice
+Options:
+  1 - strongly approve
+  2 - somewhat approve
+  3 - neither approve or disapprove
+  4 - somewhat approve
+  5 - strongly approve
+  6 - unfamiliar with this person / entity
+  7 - not sure
+Answer:2 - somewhat approve
+
+Some people seem to follow what's going on in government and public affairs most of the time, whether there's an election going on or not. Others aren't that interested. Would you say you follow what's going on in government and public affairs ..
+Question Type: Single Choice
+Options:
+  1 - Most of the time
+  2 - Some of the time
+  3 - Only now and then
+  4 - Hardly at all
+  5 - Don't know
+Answer:1 - Most of the time
+
+How many hours a week on average did you volunteer in 2019?
+Question Type: Single Choice
+Options:
+  1 - 0
+  2 - 1-9
+  3 - 10-19
+  4 - 20-29
+  5 - 30-39
+  6 - 40-49
+  7 - 50-59
+  8 - >=60
+Answer:1 - 0
+
+How many children did you have in 2019?
+Question Type: Single Choice
+Options:
+  1 - 0
+  2 - 1
+  3 - 2
+  4 - 3
+  5 - 4
+  6 - 5
+  7 - 6
+  8 - 7 or more
+Answer:1 - 0
+
+How many of your parents (and / or step-parents) were living in 2019?
+Question Type: Single Choice
+Options:
+  1 - None
+  2 - 1
+  3 - 2
+  4 - 3
+  5 - 4
+Answer:3 - 2
+
+How many other relatives (other than your spouse, parents & children) did you feel close to in 2019?
+Question Type: Single Choice
+Options:
+  1 - 0
+  2 - 1
+  3 - 2
+  4 - 3
+  5 - 4
+  6 - 5
+  7 - 6
+  8 - 7 or more
+Answer:4 - 3
+
+In 2019, which of the following modes of communication did you typically use to communicate with your relatives (i.e. parents, children, etc ...)?
+Question Type: Multiple Choice
+Options:
+  1 - Face-to-face conversation
+  2 - Text
+  3 - Phone / web-based chat (voice or video)
+  4 - Email
+  5 - Social media
+  6 - Gaming
+  7 - Touch
+  8 - Does not apply (no contact in past month)
+Answer:
+  1 - Face-to-face conversation
+  2 - Text
+  3 - Phone / web-based chat (voice or video)
+  5 - Social media
+
+In 2019, which of the following did you typically receive through communication with your relatives (i.e. parents, children, etc ...)?
+Question Type: Multiple Choice
+Options:
+  1 - Emotional support, empathy
+  2 - Physical or material assistance (e.g., helping with a task or loaning/giving something you need)
+  3 - Advice, suggestions, or information
+  4 - Constructive feedback about yourself
+  5 - Companionship, sharing an experience
+  6 - Other (please describe)
+Answer:
+  1 - Emotional support, empathy
+  2 - Physical or material assistance (e.g., helping with a task or loaning/giving something you need)
+  3 - Advice, suggestions, or information
+  4 - Constructive feedback about yourself
+  5 - Companionship, sharing an experience
+
+In 2019, which of the following did you typically give through communication with your relatives (i.e. parents, children, etc ...)?
+Question Type: Multiple Choice
+Options:
+  1 - Emotional support, empathy
+  2 - Physical or material assistance (e.g., helping with a task or loaning/giving something you need)
+  3 - Advice, suggestions, or information
+  4 - Constructive feedback about yourself
+  5 - Companionship, sharing an experience
+  6 - Other (please describe)
+Answer:
+  1 - Emotional support, empathy
+  2 - Physical or material assistance (e.g., helping with a task or loaning/giving something you need)
+  3 - Advice, suggestions, or information
+  4 - Constructive feedback about yourself
+  5 - Companionship, sharing an experience
+
+Which answer best describes your communication in 2019 with your relatives (i.e. parents, children, etc ...)?
+Question Type: Single Choice
+Options:
+  1 - More frequent than usual
+  2 - Pretty typical
+  3 - Less frequent than usual
+Answer:3 - Less frequent than usual
+
+How many close friends did you have in 2019? (meaning people that you felt at ease with, could talk to about private matters, and could call on for help)
+Question Type: Single Choice
+Options:
+  1 - 0
+  2 - 1
+  3 - 2
+  4 - 3
+  5 - 4
+  6 - 5
+  7 - 6
+  8 - 7 or more
+Answer:7 - 6
+
+Did you belong to a church, temple, or other religious group in 2019?
+Question Type: Single Choice
+Options:
+  1 - Yes
+  2 - No
+Answer:2 - No
+
+Did you attend any classes (school, university, technical training, or adult education) on a regular basis in 2019?
+Question Type: Single Choice
+Options:
+  1 - Yes
+  2 - No
+Answer:1 - Yes
+
+Were you employed either full or part-time in 2019?
+Question Type: Single Choice
+Options:
+  1 - Yes
+  2 - No
+Answer:2 - No
+
+In 2019, how many of your neighbors did you usually visit or talk to at least once every 2 weeks?
+Question Type: Single Choice
+Options:
+  1 - 0
+  2 - 1
+  3 - 2
+  4 - 3
+  5 - 4
+  6 - 5
+  7 - 6
+  8 - 7 or more
+Answer: 1 - 0
+
+In 2019, how many of your neighbors did you usually communicate with at least once every 2 weeks? (include all forms of communication)
+Question Type: Single Choice
+Options:
+  1 - 0
+  2 - 1
+  3 - 2
+  4 - 3
+  5 - 4
+  6 - 5
+  7 - 6
+  8 - 7 or more
+Answer: 1 - 0
+
+Were you involved in regular volunteer work during 2019?
+Question Type: Single Choice
+Options:
+  1 - Yes
+  2 - No
+Answer:2 - No
+
+Please indicate how many groups you belonged to in 2019, in which you talked to one or more members of the group about group-related issues at least once every 2 weeks.
+Examples include social clubs, recreational groups, trade unions, commercial groups, professional organizations, groups concerned with children like the PTA or Boy Scouts, groups concerned with community service, etc.
+DO NOT INCLUDE GROUPS THAT HAVE BEEN DESCRIBED IN THE PREVIOUS ANSWERS.
+Question Type: Single Choice
+Options:
+  1 - 0
+  2 - 1
+  3 - 2
+  4 - 3
+  5 - 4
+  6 - 5
+  7 - 6 or more
+Answer:1 - 0
+
+
+---
+## New Survey Question & Instructions (Please respond as the persona described above):
+Please answer the following questions as if you were taking this survey. The expected output is a JSON object and the format is provided in the end.
+---
+
+Q1: Please indicate how much you agree or disagree with the following statements.
+Question Type: Matrix
+Options:
+  1 - Strongly Disagree
+  2 - Disagree
+  3 - Neutral
+  4 - Agree
+  5 - Strongly Agree
+1. I am not a worrier.
+Answer: [Masked]
+2. I like to have a lot of people around me.
+Answer: [Masked]
+3. I don't like to waste my time daydreaming.
+Answer: [Masked]
+4. I try to be courteous to everyone I meet.
+Answer: [Masked]
+5. I keep my belongings neat and clean.
+Answer: [Masked]
+6. I often feel inferior to others
+Answer: [Masked]
+7. I laugh easily.
+Answer: [Masked]
+8. Once I find the right way to do something, I stick to it.
+Answer: [Masked]
+9. I often get into arguments with my family and coworkers.
+Answer: [Masked]
+10. I'm pretty good about pacing myself so as to get things done on time.
+Answer: [Masked]
+11. When I'm under a great deal of stress, sometimes I feel like I'm going to pieces.
+Answer: [Masked]
+12. I don't consider myself especially "lighthearted."
+Answer: [Masked]
+13. I am intrigued by the patterns I find in art and nature.
+Answer: [Masked]
+14. Some people think I'm selfish and egotistical.
+Answer: [Masked]
+15. I am not a very methodical person.
+Answer: [Masked]
+16. I rarely feel lonely or blue.
+Answer: [Masked]
+17. I really enjoy talking to people.
+Answer: [Masked]
+18. I believe letting students hear controversial speakers can only confuse and mislead them.
+Answer: [Masked]
+19. I would rather cooperate with others than compete with them.
+Answer: [Masked]
+20. I try to perform all the tasks assigned to me conscientiously.
+Answer: [Masked]
+21. I often feel tense and jittery.
+Answer: [Masked]
+22. I like to be where the action is.
+Answer: [Masked]
+23. Poetry has little or no effect on me.
+Answer: [Masked]
+24. I tend to be cynical and skeptical of others' intentions.
+Answer: [Masked]
+25. I have a clear set of goals and work toward them in an orderly fashion.
+Answer: [Masked]
+26. Sometimes I feel completely worthless.
+Answer: [Masked]
+27. I usually prefer to do things alone.
+Answer: [Masked]
+28. I often try new and foreign foods.
+Answer: [Masked]
+29. I believe that most people will take advantage of you if you let them.
+Answer: [Masked]
+30. I waste a lot of time before settling down to work.
+Answer: [Masked]
+31. I rarely feel fearful or anxious.
+Answer: [Masked]
+32. I often feel as if I'm bursting with energy.
+Answer: [Masked]
+33. I seldom notice the moods or feelings that different environments produce.
+Answer: [Masked]
+34. Most people I know like me.
+Answer: [Masked]
+35. I work hard to accomplish my goals.
+Answer: [Masked]
+36. I often get angry at the way people treat me.
+Answer: [Masked]
+37. I am a cheerful, highspirited person.
+Answer: [Masked]
+38. I believe we should look to our religious authorities for decisions on moral issues.
+Answer: [Masked]
+39. Some people think of me as cold and calculating.
+Answer: [Masked]
+40. When I make a commitment, I can always be counted on to follow through.
+Answer: [Masked]
+41. Too often, when things go wrong, I get discouraged and feel like giving up.
+Answer: [Masked]
+42. I am not a cheerful optimist.
+Answer: [Masked]
+43. Sometimes when I am reading poetry or looking at a work of art, I feel a chill or wave of excitement.
+Answer: [Masked]
+44. I'm hardheaded and toughminded in my attitudes.
+Answer: [Masked]
+45. Sometimes I'm not as dependable or reliable as I should be.
+Answer: [Masked]
+46. I am seldom sad or depressed.
+Answer: [Masked]
+47. My life is fastpaced.
+Answer: [Masked]
+48. I have little interest in speculating on the nature of the universe or the human condition.
+Answer: [Masked]
+49. I generally try to be thoughtful and considerate.
+Answer: [Masked]
+50. I am a productive person who always gets the job done.
+Answer: [Masked]
+51. I often feel helpless and want someone else to solve my problems.
+Answer: [Masked]
+52. I am a very active person.
+Answer: [Masked]
+53. I have a lot of intellectual curiosity.
+Answer: [Masked]
+54. If I don't like people, I let them know it.
+Answer: [Masked]
+55. I never seem to be able to get organized.
+Answer: [Masked]
+56. At times I have been so ashamed I just wanted to hide.
+Answer: [Masked]
+57. I would rather go my own way than be a leader of others.
+Answer: [Masked]
+58. I often enjoy playing with theories or abstract ideas.
+Answer: [Masked]
+59. If necessary, I am willing to manipulate people to get what I want.
+Answer: [Masked]
+60. I strive for excellence in everything I do.
+Answer: [Masked]
+
+
+
+
+#### Format Instructions:
+
+You must output your response **strictly as a single, valid JSON object**. Do not include any other text, explanations, or Markdown formatting (like ```json).
+
+**Requirements:**
+1.  **Completeness:** The JSON object must contain exactly **60 keys**, corresponding to the question numbers 1 through 60 listed above. **Do not skip any questions.**
+2.  **Keys:** The keys must be strings representing the question number (e.g., "1", "2", ... "60").
+3.  **Values:** The values must be the **integer** score (1, 2, 3, 4, or 5) that best represents your answer based on the Options provided.
+4.  **Structure:** Use the following structure:
+
+**Example Output:**
+{
+  "1": 5,
+  "2": 2,
+  "3": 3,
+  "4": 1,
+  "5": 4,
+  ...
+  "60": 4
+}

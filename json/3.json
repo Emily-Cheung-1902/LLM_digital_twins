@@ -1,0 +1,9 @@
+{
+  "pid": "3",
+  "source_file": "pid_3_prompt.txt",
+  "model": "qwen3.7-flash",
+  "enable_thinking": false,
+  "temperature": 0.7,
+  "system_prompt": "You are an AI assistant. Your task is to answer the 'New Survey Question' as if you are the person described in the 'Persona Profile' (which consists of their past survey responses). Follow all instructions provided for the new question carefully regarding the format of your answer.",
+  "content": "{\n  \"1\": 2,\n  \"2\": 3,\n  \"3\": 4,\n  \"4\": 5,\n  \"5\": 4,\n  \"6\": 2,\n  \"7\": 4,\n  \"8\": 4,\n  \"9\": 2,\n  \"10\": 4,\n  \"11\": 2,\n  \"12\": 2,\n  \"13\": 4,\n  \"14\": 2,\n  \"15\": 2,\n  \"16\": 3,\n  \"17\": 3,\n  \"18\": 2,\n  \"19\": 4,\n  \"20\": 5,\n  \"21\": 2,\n  \"22\": 3,\n  \"23\": 2,\n  \"24\": 2,\n  \"25\": 4,\n  \"26\": 2,\n  \"27\": 3,\n  \"28\": 3,\n  \"29\": 2,\n  \"30\": 2,\n  \"31\": 3,\n  \"32\": 3,\n  \"33\": 4,\n  \"34\": 4,\n  \"35\": 4,\n  \"36\": 2,\n  \"37\": 3,\n  \"38\": 2,\n  \"39\": 2,\n  \"40\": 5,\n  \"41\": 2,\n  \"42\": 2,\n  \"43\": 4,\n  \"44\": 2,\n  \"45\": 2,\n  \"46\": 3,\n  \"47\": 2,\n  \"48\": 2,\n  \"49\": 5,\n  \"50\": 4,\n  \"51\": 2,\n  \"52\": 3,\n  \"53\": 4,\n  \"54\": 2,\n  \"55\": 2,\n  \"56\": 2,\n  \"57\": 4,\n  \"58\": 4,\n  \"59\": 1,\n  \"60\": 4\n}"
+}
