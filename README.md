@@ -1,8 +1,8 @@
 # LLM Digital Twin
 
-A quick-start toy project for simulating human survey responses with an LLM. Each text file in `prompt/` describes a person's earlier survey answers and asks the model to answer a new 60-item questionnaire in that person's voice. The project calls a DashScope-compatible chat API, collects the model's answers, and compares them with the matching human responses.
+A quick-start toy project for simulating human survey responses with an LLM. Each text file in `prompt/` describes a person's earlier survey answers and asks the model to answer a new 60-item questionnaire in that person's voice. The project invokes a DashScope-compatible chat API (though you could also use an OpenAI-compatible interface), collects the model's responses, and compares them against the corresponding human-provided answers.
 
-This is a small demonstration, not a validated digital twin or a research-grade evaluation. The included sample has eight prompt IDs.
+This is a small demonstration, the included sample has eight prompt IDs.
 
 ## What is included
 
@@ -48,8 +48,8 @@ To inspect the included example without an API key, install the dependencies and
 
 The prompt filename supplies the ID. Model answers are expected to be a JSON object with string keys `"1"` through `"60"` and integer values from 1 to 5. `2_processjson.py` extracts those answers into a CSV row. `3_metrics.py` joins that CSV to `humanresponse.csv` using `id` and `CVDID`, respectively, and reports mean response accuracy, item-level and profile Spearman correlations, and error slopes with 95% confidence intervals.
 
-The sample contains only eight people. Treat its metrics as a pipeline demonstration; they do not establish predictive validity or generalize to a population. The prompts contain survey profiles, so review any replacement data for consent and privacy before publishing it.
+The sample contains only eight people. Treat its metrics as a pipeline demonstration; they do not establish predictive validity or generalize to a population.
 
 ## Repository hygiene
 
-The local `.env` file is ignored by Git. Keep API keys there or in your shell environment, and never commit credentials. The provided `.env.example` contains only an empty setting.
+ Keep API keys in the `.env` or in your shell environment, and never commit credentials. The provided `.env.example` contains only an empty setting.
